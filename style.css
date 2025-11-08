@@ -1,0 +1,14 @@
+/* General body styling */
+body {
+    font-family: Arial, sans-serif; /* Sets a common, readable font */
+    margin: 20px; /* Adds space around the entire page content */
+    background-color: #f4f4f4; /* Light grey background */
+    color: #333; /* Dark grey text color */
+}
+
+/* Header styling */
+h1 {
+    color: #0056b3; /* Blue heading color */
+    text-align: center; /* Centers the main heading */
+    margin-bottom: 30px; /* Adds space below the heading */
+}
